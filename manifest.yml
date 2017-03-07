@@ -2,7 +2,7 @@ applications:
 - path: target/iERPTestMgmt2.war
   memory: 512M
   instances: 1
-  domain: mybluemix.net
+  domain: w3ibm.mybluemix.net
   name: iERPTestMgmt2
   host: iERPTestMgmt2
   disk_quota: 1024M
